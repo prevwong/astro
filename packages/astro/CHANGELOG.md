@@ -1,5 +1,11 @@
 # astro
 
+## 2.1.3
+
+### Patch Changes
+
+- [#6460](https://github.com/withastro/astro/pull/6460) [`77a046e88`](https://github.com/withastro/astro/commit/77a046e886c370b737208574b6934f5a1cf2b177) Thanks [@bluwy](https://github.com/bluwy)! - Add default `.npmrc` file when adding the Lit integration through `astro add lit` and using `pnpm`.
+
 ## 2.1.2
 
 ### Patch Changes
